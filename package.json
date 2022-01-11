@@ -1,0 +1,13 @@
+{
+  "name": "diffusion-tokenlist",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "KeKs0r <marc.hoeffl@laserfocus.io>",
+  "license": "MIT",
+  "devDependencies": {
+    "zod": "^3.11.6"
+  },
+  "scripts": {
+    "test": "node test/validate.js"
+  }
+}
