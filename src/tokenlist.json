@@ -19,42 +19,47 @@
       "symbol": "MUSDC",
       "chainId": 9000,
       "decimals": 18,
-      "address": "0x880E63017A2854ECE5B23A5B84fbEeC0858e6551"
+      "address": "0x6aBdDa34Fb225be4610a2d153845e09429523Cd2"
     },
     {
       "name": "MOCK Evmos",
       "symbol": "MEVMOS",
       "chainId": 9000,
       "decimals": 18,
-      "address": "0xca20D595fEcB22f0D0E6ab4309324D2b7d300C63"
+      "address": "0xFCd2Ce20ef8ed3D43Ab4f8C2dA13bbF1C6d9512F"
     },
     {
       "name": "MOCK Atom",
       "symbol": "MATOM",
       "chainId": 9000,
       "decimals": 18,
-      "address": "0x221ab5e5Ec2B748abc3d0e9D771D258493DD9165"
+      "address": "0x2764b262E60D3Ac96999F7e73b0628B09CbB367E"
     },
     {
       "name": "MOCK Osmosis",
       "symbol": "MOSMOSIS",
       "chainId": 9000,
       "decimals": 18,
-      "address": "0x290A81340949c3C303313D54f4E99774e8bF85CD"
+      "address": "0x067eC87844fBD73eDa4a1059F30039584586e09d"
     },
     {
       "name": "Left Hand 2",
       "symbol": "LHS2",
       "chainId": 9000,
       "decimals": 18,
-      "address": "0xfda1ab2055292c59da08b903894341920af8fb64"
+      "address": "0xD6C474447cA995219B52E5c018665eCAfEB772e4"
     },
     {
       "name": "Right Hand 2",
       "symbol": "RHS2",
       "chainId": 9000,
       "decimals": 18,
-      "address": "0xdbf7a4aad29bcd3624cba36bb271427dcf2a64b1"
+      "address":  "0x16bc4f17071A27Ebe6Af44e90bac6349057646a5"
     }
   ]
 }
+
+mockUSDC: ,
+mockEVMOS: ,
+mockATOM: ,
+mockOSMOSIS: ,
