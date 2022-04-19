@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 4
+    "patch": 5
   },
   "tokens": [
     {
@@ -14,7 +14,6 @@
       "decimals": 18,
       "address": "0xc48Efe267a31b5Af4cFDb50C8457914aadB0b875",
       "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389"
-
     },
     {
       "name": "MOCK USDC",
@@ -22,7 +21,7 @@
       "chainId": 4,
       "decimals": 18,
       "address": "0xB2E91f27a9766bFD925D66D88B78D2cE64a846b6",
-      "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389"
     },
     {
       "name": "MOCK Evmos",
