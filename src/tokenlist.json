@@ -81,7 +81,7 @@
     },
     {
       "name": "Dai Stablecoin | MultiChain",
-      "symbol": "DAI",
+      "symbol": "mulDAI",
       "chainId": 9001,
       "decimals": 18,
       "address": "0x461d52769884ca6235B685EF2040F47d30C94EB5",
@@ -89,7 +89,7 @@
     },
     {
       "name": "Wrapped Ether | MultiChain",
-      "symbol": "WETH",
+      "symbol": "mulWETH",
       "chainId": 9001,
       "decimals": 18,
       "address": "0x7C598c96D02398d89FbCb9d41Eab3DF0C16F227D",
@@ -97,7 +97,7 @@
     },
     {
       "name": "Wrapped BTC | MultiChain",
-      "symbol": "WBTC",
+      "symbol": "mulWBTC",
       "chainId": 9001,
       "decimals": 8,
       "address": "0x332730a4F6E03D9C55829435f10360E13cfA41Ff",
@@ -105,7 +105,7 @@
     },
     {
       "name": "USD Coin | MultiChain",
-      "symbol": "USDC",
+      "symbol": "mulUSDC",
       "chainId": 9001,
       "decimals": 6,
       "address": "0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e",
@@ -113,7 +113,7 @@
     },
     {
       "name": "Tether USD | MultiChain",
-      "symbol": "USDT",
+      "symbol": "mulUSDT",
       "chainId": 9001,
       "decimals": 6,
       "address": "0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4",
