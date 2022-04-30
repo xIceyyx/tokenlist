@@ -119,6 +119,46 @@
       "address": "0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4",
       "logoURI": "https://assets.coingecko.com/coins/images/325/thumb/Tether-logo.png"
     },
+{
+      "name": "Dai Stablecoin | Celer",
+      "symbol": "ceDAI",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0x940dAAbA3F713abFabD79CdD991466fe698CBe54",
+      "logoURI": "https://assets.coingecko.com/coins/images/9956/thumb/4943.png"
+    },
+    {
+      "name": "Wrapped Ether | Celer",
+      "symbol": "ceWETH",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0x153A59d48AcEAbedbDCf7a13F67Ae52b434B810B",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "Wrapped BTC | Celer",
+      "symbol": "ceWBTC",
+      "chainId": 9001,
+      "decimals": 8,
+      "address": "0xb98e169C37ce30Dd47Fdad1f9726Fb832191e60b",
+      "logoURI": "https://assets.coingecko.com/coins/images/14867/thumb/binance-btc_32.png"
+    },
+    {
+      "name": "USD Coin | Celer",
+      "symbol": "ceUSDC",
+      "chainId": 9001,
+      "decimals": 6,
+      "address": "0xe46910336479F254723710D57e7b683F3315b22B",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "name": "Tether USD | Celer",
+      "symbol": "ceUSDT",
+      "chainId": 9001,
+      "decimals": 6,
+      "address": "0xb72A7567847abA28A2819B855D7fE679D4f59846",
+      "logoURI": "https://assets.coingecko.com/coins/images/325/thumb/Tether-logo.png"
+    },
     {
       "name": "MOCK USDC",
       "symbol": "MUSDC",
