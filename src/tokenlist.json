@@ -65,6 +65,7 @@
     },
     {
       "name": "Frax - Nomad",
+      "symbol": "madFRAX",
       "symbol": "FRAX",
       "chainId": 9001,
       "decimals": 18,
@@ -73,11 +74,27 @@
     },
     {
       "name": "Frax Share - Nomad",
-      "symbol": "FXS",
+      "symbol": "madFXS",
       "chainId": 9001,
       "decimals": 18,
       "address": "0xd0ec216A38F199B0229AE668a96c3Cd9F9f118A6",
       "logoURI": "https://assets.coingecko.com/coins/images/13423/thumb/frax_share.png"
+    },
+    {
+      "name": "Frax",
+      "symbol": "FRAX",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0xE03494D0033687543a80c9B1ca7D6237F2EA8BD8",
+      "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/evmCanonicalFRAX.png"
+    },
+    {
+      "name": "Frax Share",
+      "symbol": "FXS",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0xd8176865DD0D672c6Ab4A427572f80A72b4B4A9C",
+      "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/evmCanonicalFXS.png"
     },
     {
       "name": "Dai Stablecoin - MultiChain",
