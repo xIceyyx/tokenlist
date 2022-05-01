@@ -24,7 +24,7 @@
       "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/DIFF.png"
     },
     {
-      "name": "Dai Stablecoin | Nomad",
+      "name": "Dai Stablecoin - Nomad",
       "symbol": "DAI",
       "chainId": 9001,
       "decimals": 18,
@@ -32,7 +32,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/9956/thumb/4943.png"
     },
     {
-      "name": "Wrapped Ether | Nomad",
+      "name": "Wrapped Ether - Nomad",
       "symbol": "WETH",
       "chainId": 9001,
       "decimals": 18,
@@ -40,7 +40,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
     },
     {
-      "name": "Wrapped BTC | Nomad",
+      "name": "Wrapped BTC - Nomad",
       "symbol": "WBTC",
       "chainId": 9001,
       "decimals": 8,
@@ -48,7 +48,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/14867/thumb/binance-btc_32.png"
     },
     {
-      "name": "USD Coin | Nomad",
+      "name": "USD Coin - Nomad",
       "symbol": "USDC",
       "chainId": 9001,
       "decimals": 6,
@@ -56,7 +56,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
     },
     {
-      "name": "Tether USD | Nomad",
+      "name": "Tether USD - Nomad",
       "symbol": "USDT",
       "chainId": 9001,
       "decimals": 6,
@@ -64,7 +64,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/325/thumb/Tether-logo.png"
     },
     {
-      "name": "Frax | Nomad",
+      "name": "Frax - Nomad",
       "symbol": "FRAX",
       "chainId": 9001,
       "decimals": 18,
@@ -72,7 +72,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/13422/thumb/frax_logo.png"
     },
     {
-      "name": "Frax Share | Nomad",
+      "name": "Frax Share - Nomad",
       "symbol": "FXS",
       "chainId": 9001,
       "decimals": 18,
@@ -80,7 +80,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/13423/thumb/frax_share.png"
     },
     {
-      "name": "Dai Stablecoin | MultiChain",
+      "name": "Dai Stablecoin - MultiChain",
       "symbol": "mulDAI",
       "chainId": 9001,
       "decimals": 18,
@@ -88,7 +88,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/9956/thumb/4943.png"
     },
     {
-      "name": "Wrapped Ether | MultiChain",
+      "name": "Wrapped Ether - MultiChain",
       "symbol": "mulWETH",
       "chainId": 9001,
       "decimals": 18,
@@ -96,7 +96,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
     },
     {
-      "name": "Wrapped BTC | MultiChain",
+      "name": "Wrapped BTC - MultiChain",
       "symbol": "mulWBTC",
       "chainId": 9001,
       "decimals": 8,
@@ -104,7 +104,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/14867/thumb/binance-btc_32.png"
     },
     {
-      "name": "USD Coin | MultiChain",
+      "name": "USD Coin - MultiChain",
       "symbol": "mulUSDC",
       "chainId": 9001,
       "decimals": 6,
@@ -112,7 +112,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
     },
     {
-      "name": "Tether USD | MultiChain",
+      "name": "Tether USD - MultiChain",
       "symbol": "mulUSDT",
       "chainId": 9001,
       "decimals": 6,
@@ -120,7 +120,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/325/thumb/Tether-logo.png"
     },
     {
-      "name": "Dai Stablecoin | Celer",
+      "name": "Dai Stablecoin - Celer",
       "symbol": "ceDAI",
       "chainId": 9001,
       "decimals": 18,
@@ -128,7 +128,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/9956/thumb/4943.png"
     },
     {
-      "name": "Wrapped Ether | Celer",
+      "name": "Wrapped Ether - Celer",
       "symbol": "ceWETH",
       "chainId": 9001,
       "decimals": 18,
@@ -136,7 +136,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
     },
     {
-      "name": "Wrapped BTC | Celer",
+      "name": "Wrapped BTC - Celer",
       "symbol": "ceWBTC",
       "chainId": 9001,
       "decimals": 8,
@@ -144,7 +144,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/14867/thumb/binance-btc_32.png"
     },
     {
-      "name": "USD Coin | Celer",
+      "name": "USD Coin - Celer",
       "symbol": "ceUSDC",
       "chainId": 9001,
       "decimals": 6,
@@ -152,7 +152,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
     },
     {
-      "name": "Tether USD | Celer",
+      "name": "Tether USD - Celer",
       "symbol": "ceUSDT",
       "chainId": 9001,
       "decimals": 6,
