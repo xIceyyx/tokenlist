@@ -2,7 +2,7 @@
   "name": "Diffusion List",
   "timestamp": "2022-05-01T00:00:00.000Z",
   "version": {
-    "major": 8,
+    "major": 9,
     "minor": 1,
     "patch": 0
   },
@@ -66,7 +66,6 @@
     {
       "name": "Frax - Nomad",
       "symbol": "madFRAX",
-      "symbol": "FRAX",
       "chainId": 9001,
       "decimals": 18,
       "address": "0x28eC4B29657959F4A5052B41079fe32919Ec3Bd3",
