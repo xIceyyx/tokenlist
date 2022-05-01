@@ -1,35 +1,63 @@
 const { test } = require("uvu");
 const https = require("https");
 const assert = require("uvu/assert");
-const { getVersionUpgrade, minVersionBump } = require("@uniswap/token-lists");
+const {
+  getVersionUpgrade,
+  minVersionBump,
+  VersionUpgrade,
+} = require("@uniswap/token-lists");
 const schema = require("./schema");
 
-test("Validate Schema", () => {
-  const list = getCurrentList();
+test("Main List - Validate Schema", () => {
+  const list = getCurrentMainList();
   schema.parse(list);
 });
 
-test("Validate Correct Bump", async () => {
-  const masterList = await getListFromMaster();
-  const current = getCurrentList();
+test("Main List - Validate Correct Bump", async () => {
+  const masterList = await getListFromMaster("tokenlist.json");
+  const current = getCurrentMainList();
   const bump = getVersionUpgrade(masterList.version, current.version);
   const min = minVersionBump(masterList.tokens, current.tokens);
   assert.ok(
     bump >= min,
-    `Version bump needs to be bigger than min. Got: Bump=${bump}, min=${min}`
+    `Version bump needs to be bigger than min. Got: ${
+      VersionUpgrade[`${bump}`]
+    }, needs=${VersionUpgrade[`${min}`]}`
   );
 });
 
-function getCurrentList() {
+test("Community List - Validate Schema", () => {
+  const list = getCurrentCommunityList();
+  schema.parse(list);
+});
+
+test("Community List - Validate Correct Bump", async () => {
+  const masterList = await getListFromMaster("community-list.json");
+  const current = getCurrentCommunityList();
+  const bump = getVersionUpgrade(masterList.version, current.version);
+  const min = minVersionBump(masterList.tokens, current.tokens);
+  assert.ok(
+    bump >= min,
+    `Version bump needs to be bigger than min. Got: ${
+      VersionUpgrade[`${bump}`]
+    }, needs=${VersionUpgrade[`${min}`]}`
+  );
+});
+
+function getCurrentMainList() {
   const data = require("../src/tokenlist.json");
   return data;
 }
+function getCurrentCommunityList() {
+  return require("../src/community-list.json");
+}
 
-async function getListFromMaster() {
+async function getListFromMaster(name) {
+  assert.ok(["tokenlist.json", "community-list.json"].includes(name));
   return new Promise((resolve, reject) =>
     https
       .get(
-        "https://raw.githubusercontent.com/diffusion-fi/tokenlist/main/src/tokenlist.json",
+        `https://raw.githubusercontent.com/diffusion-fi/tokenlist/main/src/${name}`,
         (res) => {
           let body = "";
 
