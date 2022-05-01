@@ -3,7 +3,7 @@
   "timestamp": "2022-05-01T00:00:00.000Z",
   "version": {
     "major": 7,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "tokens": [
@@ -158,6 +158,54 @@
       "decimals": 6,
       "address": "0xb72A7567847abA28A2819B855D7fE679D4f59846",
       "logoURI": "https://assets.coingecko.com/coins/images/325/thumb/Tether-logo.png"
+    },
+    {
+      "name": "BUSD - Celer",
+      "symbol": "ceBUSD",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0x516e6D96896Aea92cE5e78B0348FD997F13802ad",
+      "logoURI": "https://assets.coingecko.com/coins/images/9576/thumb/BUSD.png"
+    },
+    {
+      "name": "BNB - Celer",
+      "symbol": "ceBNB",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4",
+      "logoURI": "https://assets.coingecko.com/coins/images/825/small/bnb-icon2_2x.png"
+    },
+    {
+      "name": "AVAX - Celer",
+      "symbol": "ceAVAX",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0x8006320739fC281da67Ee62eB9b4Ef8ADD5C903a",
+      "logoURI": "https://assets.coingecko.com/coins/images/12559/small/coin-round-red.png"
+    },
+    {
+      "name": "FTM - Celer",
+      "symbol": "ceFTM",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0x729416B1F442f204989f1C9f0d58321F878808eD",
+      "logoURI": "https://assets.coingecko.com/coins/images/4001/thumb/Fantom.png"
+    },
+    {
+      "name": "Aurora - Celer",
+      "symbol": "ceAURORA",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0x48421FF1c6B93988138130865C4B7Cce10358271",
+      "logoURI": "https://assets.coingecko.com/coins/images/20582/thumb/aurora.jpeg"
+    },
+    {
+      "name": "CELR - Celer",
+      "symbol": "CELR",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0xFe6998C5c22936CCa749b14Fcf5F190398cfa8F8",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3814.png"
     },
     {
       "name": "MOCK USDC",
