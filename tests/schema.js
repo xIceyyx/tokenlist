@@ -32,7 +32,7 @@ const TokenInfoSchema = z.object({
 });
 
 const schema = z.object({
-  name: z.string(),
+  name: z.string().max(20),
   timestamp: DateTimeStringSchema,
   version: VersionSchema,
   tokens: z.array(TokenInfoSchema),
