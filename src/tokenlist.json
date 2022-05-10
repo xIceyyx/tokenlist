@@ -3,7 +3,7 @@
   "timestamp": "2022-05-01T00:00:00.000Z",
   "logoURI": "https://app.diffusion.fi/favicon.png",
   "version": {
-    "major": 9,
+    "major": 10,
     "minor": 2,
     "patch": 0
   },
@@ -23,6 +23,14 @@
       "decimals": 18,
       "address": "0x3f75ceabCDfed1aCa03257Dc6Bdc0408E2b4b026",
       "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/DIFF.png"
+    },
+    {
+      "name": "xDiffusion",
+      "symbol": "xDIFF",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0x75aeE82a16BD1fB98b11879af93AB7CE055f66Da",
+      "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/xDIFF.png"
     },
     {
       "name": "Dai Stablecoin - Nomad",
