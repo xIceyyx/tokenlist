@@ -3,8 +3,8 @@
   "timestamp": "2022-05-01T00:00:00.000Z",
   "logoURI": "https://app.diffusion.fi/favicon.png",
   "version": {
-    "major": 10,
-    "minor": 2,
+    "major": 11,
+    "minor": 3,
     "patch": 0
   },
   "tokens": [
@@ -231,6 +231,14 @@
       "decimals": 18,
       "address": "0xFe6998C5c22936CCa749b14Fcf5F190398cfa8F8",
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3814.png"
+    },
+    {
+      "name": "Orbital Apes",
+      "symbol": "OAV",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0xBbD37BF85f7474b5bDe689695674faB1888565Ad",
+      "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/oav.png"
     },
     {
       "name": "MOCK USDC",
