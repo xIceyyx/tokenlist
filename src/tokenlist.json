@@ -3,8 +3,8 @@
   "timestamp": "2022-05-01T00:00:00.000Z",
   "logoURI": "https://app.diffusion.fi/favicon.png",
   "version": {
-    "major": 10,
-    "minor": 2,
+    "major": 11,
+    "minor": 3,
     "patch": 0
   },
   "tokens": [
