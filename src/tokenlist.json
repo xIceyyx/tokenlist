@@ -233,6 +233,14 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3814.png"
     },
     {
+      "name": "Orbital Apes",
+      "symbol": "OAV",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0xBbD37BF85f7474b5bDe689695674faB1888565Ad",
+      "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/oav.png"
+    },
+    {
       "name": "MOCK USDC",
       "symbol": "MUSDC",
       "chainId": 9000,
