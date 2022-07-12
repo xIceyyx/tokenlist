@@ -3,7 +3,7 @@
   "timestamp": "2022-05-01T00:00:00.000Z",
   "logoURI": "https://app.diffusion.fi/favicon.png",
   "version": {
-    "major": 11,
+    "major": 13,
     "minor": 3,
     "patch": 0
   },
@@ -15,6 +15,14 @@
       "decimals": 18,
       "address": "0xD4949664cD82660AaE99bEdc034a0deA8A0bd517",
       "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/wevmos.png"
+    },
+    {
+      "name": "Osmosis",
+      "symbol": "OSMO",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0xFA3C22C069B9556A4B2f7EcE1Ee3B467909f4864",
+      "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/osmo%201.png"
     },
     {
       "name": "Diffusion",
