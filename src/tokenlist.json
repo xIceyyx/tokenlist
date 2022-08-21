@@ -49,6 +49,30 @@
       "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/xDIFF.png"
     },
     {
+      "name": "ibc GRAV",
+      "symbol": "GRAV",
+      "chainId": 9001,
+      "decimals": 6,
+      "address": "0x80b5a32e4f032b2a058b4f29ec95eefeeb87adcd",
+      "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/grav-ibc.png"
+    },
+    {
+      "name": "Wrapped Ether - Gravity",
+      "symbol": "gWETH",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0xc03345448969Dd8C00e9E4A85d2d9722d093aF8E",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+      {
+      "name": "USD Coin - Gravity",
+      "symbol": "gUSDC",
+      "chainId": 9001,
+      "decimals": 6,
+      "address": "0x5FD55A1B9FC24967C4dB09C513C3BA0DFa7FF687",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
       "name": "Dai Stablecoin - Nomad",
       "symbol": "madDAI",
       "chainId": 9001,
