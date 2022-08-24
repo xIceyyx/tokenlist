@@ -8,14 +8,14 @@
     "patch": 0
   },
   "tokens": [
-    {
-      "name": "Wrapped Canto",
-      "symbol": "WCANTO",
-      "chainId": 7700,
-      "decimals": 18,
-      "address": "0x988Fa13372C9d4418fd7ccecE28980Ce2E178eF2",
-      "logoURI": "https://cdn.discordapp.com/attachments/934022616321253397/1011776475579547728/unknown.png"
-    },
+     {
+        "name": "wCanto",
+        "address": "0x826551890Dc65655a0Aceca109aB11AbDbD7a07B",
+        "symbol": "WCANTO",
+        "decimals": 18,
+        "chainId": 7700,
+        "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/canto.png"
+      },
     {
       "name": "Matrix",
       "symbol": "Matrix",
