@@ -9,12 +9,12 @@
   },
   "tokens": [
     {
-      "name": "Wrapped Evmos",
-      "symbol": "WEVMOS",
-      "chainId": 9001,
+      "name": "Wrapped Canto",
+      "symbol": "WCANTO",
+      "chainId": 7700,
       "decimals": 18,
-      "address": "0xD4949664cD82660AaE99bEdc034a0deA8A0bd517",
-      "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/wevmos.png"
+      "address": "0x988Fa13372C9d4418fd7ccecE28980Ce2E178eF2",
+      "logoURI": "https://canto.io/assets/favicon-32x32.png"
     },
     {
       "name": "Osmosis",
