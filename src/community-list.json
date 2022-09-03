@@ -24,6 +24,16 @@
       "decimals": 18,
       "address": "0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101",
       "logoURI": "https://cdn.discordapp.com/attachments/771433993744678972/1015615616884936815/wDOGE.png"
+    },
+    
+    
+        {
+      "name": "USDC",
+      "address": "0x85C2D3bEBffD83025910985389aB8aD655aBC946",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 2000,
+      "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/USDC.svg"
     }
 
   ]
