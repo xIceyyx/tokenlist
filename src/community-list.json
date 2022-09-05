@@ -28,7 +28,7 @@
     
     
         {
-      "name": "USDC",
+      "name": "USDC.s",
       "address": "0x85C2D3bEBffD83025910985389aB8aD655aBC946",
       "symbol": "USDC",
       "decimals": 6,
