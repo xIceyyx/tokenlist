@@ -30,7 +30,7 @@
         {
       "name": "USDC",
       "address": "0x85C2D3bEBffD83025910985389aB8aD655aBC946",
-      "symbol": "USDC.s",
+      "symbol": "USDCs",
       "decimals": 6,
       "chainId": 2000,
       "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/USDC.svg"
