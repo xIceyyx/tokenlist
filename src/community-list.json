@@ -16,6 +16,8 @@
         "address": "0x5d4B6528b9c8aB4cE15C69A014166e2884C6eaB3",
         "logoURI": "https://cdn.discordapp.com/attachments/995443293280292924/1015658545053712444/211coin.png"
       },
+        
+        
       
         {
         "name": "wWDOGE",
@@ -34,6 +36,17 @@
         "chainId": 2000,
         "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/USDC.svg"
       },
+        
+        
+              {
+        "name": "xSweets",
+        "symbol": "xSweets",
+        "chainId": 2000,
+        "decimals": 18,
+        "address": "0xd8573D2a3c441a79b7C98B88B12cc45F25E8a5BB",
+        "logoURI": "https://cdn.discordapp.com/attachments/995443293280292924/1015658545053712444/211coin.png"
+      },
+        
       {
         "chainId": 2000,
         "address": "0x2BE0096B24343549E34224aa9aa297E99961023D",
