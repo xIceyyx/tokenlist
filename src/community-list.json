@@ -37,6 +37,15 @@
         "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/USDC.svg"
       },
         
+                  {
+        "name": "USDTs",
+        "address": "0x7f8e71DD5A7e445725F0EF94c7F01806299e877A",
+        "symbol": "USDTs",
+        "decimals": 6,
+        "chainId": 2000,
+        "logoURI": "https://raw.githubusercontent.com/defigenie/kibbleswap-tokenlists/main/logos/0x7f8e71DD5A7e445725F0EF94c7F01806299e877A/logo.png"
+      },
+        
         
               {
         "name": "xSweets",
