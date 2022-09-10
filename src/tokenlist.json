@@ -48,7 +48,7 @@
       "name": "SAVIOR",
       "symbol": "SAVIOR",
       "chainId": 2000,
-      "decimals": 18,
+      "decimals": 0,
       "address": "0xBfbb7B1d22FF521a541170cAFE0C9A7F20d09c3B",
       "logoURI": "https://assets.coingecko.com/coins/images/27183/large/2022-09-02_21.06.16.jpg?1662428906"
     },
