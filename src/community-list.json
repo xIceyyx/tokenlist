@@ -3,7 +3,7 @@
     "timestamp": "2022-05-01T00:00:00.000Z",
     "logoURI": "https://cdn.discordapp.com/attachments/995443293280292924/1015656446446284901/211.png",
     "version": {
-      "major": 20,
+      "major": 21,
       "minor": 3,
       "patch": 0
     },
@@ -44,6 +44,15 @@
         "decimals": 6,
         "chainId": 2000,
         "logoURI": "https://raw.githubusercontent.com/defigenie/kibbleswap-tokenlists/main/logos/0x7f8e71DD5A7e445725F0EF94c7F01806299e877A/logo.png"
+      },
+        
+                      {
+        "name": "$SAVIOR",
+        "symbol": "$SAVIOR",
+        "chainId": 2000,
+        "decimals": 18,
+        "address": "0xBfbb7B1d22FF521a541170cAFE0C9A7F20d09c3B",
+        "logoURI": "https://assets.coingecko.com/coins/images/27183/large/2022-09-02_21.06.16.jpg?1662428906"
       },
         
         
