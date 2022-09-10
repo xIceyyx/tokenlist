@@ -45,8 +45,8 @@
     },
 
     {
-      "name": "$SAVIOR",
-      "symbol": "$SAVIOR",
+      "name": "SAVIOR",
+      "symbol": "SAVIOR",
       "chainId": 2000,
       "decimals": 18,
       "address": "0xBfbb7B1d22FF521a541170cAFE0C9A7F20d09c3B",
