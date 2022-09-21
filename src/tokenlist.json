@@ -1,22 +1,21 @@
 {
-    "name": "PowSea List",
-    "timestamp": "2022-05-01T00:00:00.000Z",
-    "logoURI": "https://cdn.discordapp.com/attachments/931651101630033960/1022101435615293460/powsea5.png",
-    "version": {
-      "major": 22,
-      "minor": 4,
-      "patch": 1
-    },
-    "tokens": [
-      {
-        "name": "WETHW",
-        "symbol": "WETHW",
-        "chainId": 10001,
-        "decimals": 18,
-        "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-        "logoURI": "https://cdn.discordapp.com/attachments/771433993744678972/1022133858252116088/ethereum-logo-EC6CDBA45B-seeklogo.com.png"
-      }
-
-    
-    ]
+  "name": "PowSea List",
+  "timestamp": "2022-05-01T00:00:00.000Z",
+  "logoURI": "https://cdn.discordapp.com/attachments/931651101630033960/1022101435615293460/powsea5.png",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "name": "WETHW",
+      "symbol": "WETHW",
+      "chainId": 10001,
+      "decimals": 18,
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "logoURI": "https://cdn.discordapp.com/attachments/771433993744678972/1022133858252116088/ethereum-logo-EC6CDBA45B-seeklogo.com.png"
+    }
+  ]
+}
 
