@@ -1,8 +1,7 @@
 {
-  "name": "PowSea List",
+  "name": "SweetSwap List",
   "timestamp": "2022-05-01T00:00:00.000Z",
-  "logoURI": "https://cdn.discordapp.com/attachments/931651101630033960/1022101435615293460/powsea5.png",
-
+  "logoURI": "https://cdn.discordapp.com/attachments/995443293280292924/1015656446446284901/211.png",
   "version": {
     "major": 20,
     "minor": 3,
@@ -10,12 +9,66 @@
   },
   "tokens": [
     {
-      "name": "WETHW",
-      "symbol": "WETHW",
-      "chainId": 10001,
+      "name": "Sweets",
+      "symbol": "Sweets",
+      "chainId": 2000,
       "decimals": 18,
-      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-      "logoURI": "https://cdn.discordapp.com/attachments/771433993744678972/1022133858252116088/ethereum-logo-EC6CDBA45B-seeklogo.com.png"
+      "address": "0x5d4B6528b9c8aB4cE15C69A014166e2884C6eaB3",
+      "logoURI": "https://cdn.discordapp.com/attachments/995443293280292924/1015658545053712444/211coin.png"
+    },
+
+    {
+      "name": "wWDOGE",
+      "symbol": "wWDOGE",
+      "chainId": 2000,
+      "decimals": 18,
+      "address": "0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101",
+      "logoURI": "https://cdn.discordapp.com/attachments/771433993744678972/1015615616884936815/wDOGE.png"
+    },
+
+    {
+      "name": "SAVIOR",
+      "symbol": "SAVIOR",
+      "chainId": 2000,
+      "decimals": 0,
+      "address": "0xBfbb7B1d22FF521a541170cAFE0C9A7F20d09c3B",
+      "logoURI": "https://assets.coingecko.com/coins/images/27183/large/2022-09-02_21.06.16.jpg?1662428906"
+    },
+
+    {
+      "name": "USDCs",
+      "address": "0x85C2D3bEBffD83025910985389aB8aD655aBC946",
+      "symbol": "USDCs",
+      "decimals": 6,
+      "chainId": 2000,
+      "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/USDC.svg"
+    },
+
+    {
+      "name": "USDTs",
+      "address": "0x7f8e71DD5A7e445725F0EF94c7F01806299e877A",
+      "symbol": "USDTs",
+      "decimals": 6,
+      "chainId": 2000,
+      "logoURI": "https://raw.githubusercontent.com/defigenie/kibbleswap-tokenlists/main/logos/0x7f8e71DD5A7e445725F0EF94c7F01806299e877A/logo.png"
+    },
+
+    {
+      "name": "xSweets",
+      "symbol": "xSweets",
+      "chainId": 2000,
+      "decimals": 18,
+      "address": "0xd8573D2a3c441a79b7C98B88B12cc45F25E8a5BB",
+      "logoURI": "https://cdn.discordapp.com/attachments/995443293280292924/1016795765286375515/211coin.png"
+    },
+
+    {
+      "chainId": 2000,
+      "address": "0x2BE0096B24343549E34224aa9aa297E99961023D",
+      "decimals": 18,
+      "name": "DogeShrek",
+      "symbol": "DogeShrek",
+      "logoURI": "https://raw.githubusercontent.com/dogeshrek/dogeshrektokenlist/main/tokens/dogeShrek.png"
     }
   ]
 }
