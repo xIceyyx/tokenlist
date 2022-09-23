@@ -9,6 +9,16 @@
     "patch": 0
   },
   "tokens": [
+    
+      {
+      "name": "PowSea",
+      "symbol": "SEA",
+      "chainId": 10001,
+      "decimals": 18,
+      "address": "0x681c4d35CeE7B2aa44FD1525cdFa042412A2ca61",
+      "logoURI": "https://media.discordapp.net/attachments/995443293280292924/1022911009981210654/powsea5.png"
+    },
+    
     {
       "name": "WETHW",
       "symbol": "WETHW",
