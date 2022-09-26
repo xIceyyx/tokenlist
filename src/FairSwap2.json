@@ -1,0 +1,33 @@
+{
+  "name": "FairSwap List",
+  "timestamp": "2022-05-01T00:00:00.000Z",
+  "logoURI": "https://cdn.discordapp.com/attachments/931651101630033960/1023583314130501772/icon-swap-resumes-spinning-arrows-in-circle-vector-20768312.png",
+
+  "version": {
+    "major": 22,
+    "minor": 5,
+    "patch": 0
+  },
+  "tokens": [
+    
+        {
+      "name": "FairSwap",
+      "symbol": "FAIR",
+      "chainId": 513100,
+      "decimals": 18,
+      "address": "0xa424d7Af01b023983516dF121Df1BbA6bB1B18Db",
+      "logoURI": "https://cdn.discordapp.com/attachments/931651101630033960/1023583314130501772/icon-swap-resumes-spinning-arrows-in-circle-vector-20768312.png"
+    },
+        
+    {
+      "name": "WETHF",
+      "symbol": "WETHF",
+      "chainId": 513100,
+      "decimals": 18,
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "logoURI": "https://assets.coingecko.com/coins/images/27310/small/etf.jpeg?1663255281"
+    }
+  ]
+}
+Footer
+© 2022 GitH
