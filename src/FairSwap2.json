@@ -18,6 +18,15 @@
       "address": "0xa424d7Af01b023983516dF121Df1BbA6bB1B18Db",
       "logoURI": "https://cdn.discordapp.com/attachments/931651101630033960/1023583314130501772/icon-swap-resumes-spinning-arrows-in-circle-vector-20768312.png"
     },
+    
+            {
+      "name": "DogeFair",
+      "symbol": "DFAIR",
+      "chainId": 513100,
+      "decimals": 9,
+      "address": "0x207f24EF6b9cFdAB560238d267F6A53292be6121",
+      "logoURI": "https://media.discordapp.net/attachments/771433993744678972/1024075865820254340/dogefiar.jpg?width=527&height=527"
+    },
         
     {
       "name": "WETHF",
