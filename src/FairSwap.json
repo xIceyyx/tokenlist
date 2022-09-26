@@ -9,6 +9,15 @@
     "patch": 0
   },
   "tokens": [
+    
+        {
+      "name": "FairSwap",
+      "symbol": "FAIR",
+      "chainId": 513100,
+      "decimals": 18,
+      "address": "0xa424d7Af01b023983516dF121Df1BbA6bB1B18Db",
+      "logoURI": "https://cdn.discordapp.com/attachments/931651101630033960/1023583314130501772/icon-swap-resumes-spinning-arrows-in-circle-vector-20768312.png"
+    },
         
     {
       "name": "WETHF",
