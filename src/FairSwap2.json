@@ -19,6 +19,15 @@
       "logoURI": "https://cdn.discordapp.com/attachments/931651101630033960/1023583314130501772/icon-swap-resumes-spinning-arrows-in-circle-vector-20768312.png"
     },
     
+       {
+      "name": "WETHF",
+      "symbol": "WETHF",
+      "chainId": 513100,
+      "decimals": 18,
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "logoURI": "https://assets.coingecko.com/coins/images/27310/small/etf.jpeg?1663255281"
+    },
+    
             {
       "name": "DogeFair",
       "symbol": "DFAIR",
@@ -26,16 +35,9 @@
       "decimals": 9,
       "address": "0x207f24EF6b9cFdAB560238d267F6A53292be6121",
       "logoURI": "https://media.discordapp.net/attachments/771433993744678972/1024075865820254340/dogefiar.jpg?width=527&height=527"
-    },
-        
-    {
-      "name": "WETHF",
-      "symbol": "WETHF",
-      "chainId": 513100,
-      "decimals": 18,
-      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-      "logoURI": "https://assets.coingecko.com/coins/images/27310/small/etf.jpeg?1663255281"
     }
+        
+ 
   ]
 }
 
