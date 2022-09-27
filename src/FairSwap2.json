@@ -28,6 +28,17 @@
       "logoURI": "https://assets.coingecko.com/coins/images/27310/small/etf.jpeg?1663255281"
     },
     
+    
+        
+        {
+      "name": "HEX",
+      "symbol": "HEX",
+      "chainId": 513100,
+      "decimals": 8,
+      "address": "0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39/logo.png"
+    },
+    
             {
       "name": "DogeFair",
       "symbol": "DFAIR",
