@@ -4,8 +4,8 @@
   "logoURI": "https://cdn.discordapp.com/attachments/931651101630033960/1023583314130501772/icon-swap-resumes-spinning-arrows-in-circle-vector-20768312.png",
 
   "version": {
-    "major": 23,
-    "minor": 6,
+    "major": 24,
+    "minor": 7,
     "patch": 1
   },
   "tokens": [
@@ -38,6 +38,17 @@
       "address": "0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39/logo.png"
     },
+    
+    
+            {
+      "name": "HDRN",
+      "symbol": "HDRN",
+      "chainId": 513100,
+      "decimals": 8,
+      "address": "0x3819f64f282bf135d62168C1e513280dAF905e06",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18687.png"
+    },
+    
     
             {
       "name": "DogeFair",
