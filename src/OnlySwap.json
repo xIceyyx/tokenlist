@@ -1,0 +1,31 @@
+{
+  "name": "OnlySwap List",
+  "timestamp": "2022-05-01T00:00:00.000Z",
+  "logoURI": "https://cdn.discordapp.com/attachments/931651101630033960/1023583314130501772/icon-swap-resumes-spinning-arrows-in-circle-vector-20768312.png",
+
+  "version": {
+    "major": 22,
+    "minor": 5,
+    "patch": 0
+  },
+  "tokens": [
+    
+        {
+      "name": "OnlySwap",
+      "symbol": "ONLY",
+      "chainId": 56,
+      "decimals": 18,
+      "address": "0x97f483ee0f4382298a816C8EaDC4Ecd28c6e6B79",
+      "logoURI": "https://media.discordapp.net/attachments/1027971266096939120/1027983552916238528/og2.png?width=525&height=525"
+    },
+        
+    {
+      "name": "WBNB",
+      "symbol": "WBNB",
+      "chainId": 56,
+      "decimals": 18,
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "logoURI": "https://bscscan.com/token/images/binance_32.png"
+    }
+  ]
+}
