@@ -5,14 +5,14 @@
 
   "version": {
     "major": 22,
-    "minor": 5,
+    "minor": 6,
     "patch": 0
   },
   "tokens": [
     
         {
       "name": "OnlySwap",
-      "symbol": "ONLY",
+      "symbol": "GROW",
       "chainId": 56,
       "decimals": 18,
       "address": "0x97f483ee0f4382298a816C8EaDC4Ecd28c6e6B79",
