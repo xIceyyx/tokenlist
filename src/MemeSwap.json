@@ -1,12 +1,12 @@
 {
-  "name": "FairSwap List",
+  "name": "MemeSwap List",
   "timestamp": "2022-05-01T00:00:00.000Z",
   "logoURI": "https://cdn.discordapp.com/attachments/934022616321253397/1041805517133201469/s_final.png",
 
   "version": {
     "major": 1,
     "minor": 1,
-    "patch": 0
+    "patch": 1
   },
   "tokens": [
     
