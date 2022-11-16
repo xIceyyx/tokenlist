@@ -1,0 +1,23 @@
+{
+  "name": "FairSwap List",
+  "timestamp": "2022-05-01T00:00:00.000Z",
+  "logoURI": "https://cdn.discordapp.com/attachments/934022616321253397/1041805517133201469/s_final.png",
+
+  "version": {
+    "major": 1,
+    "minor": 1,
+    "patch": 0
+  },
+  "tokens": [
+    
+   
+    {
+      "name": "WPOM",
+      "symbol": "WPOM",
+      "chainId": 18159,
+      "decimals": 18,
+      "address": "0xC84D8d03aA41EF941721A4D77b24bB44D7C7Ac55",
+      "logoURI": "https://www.mexc.com/api/file/download/F20221105090002958klaGfgt7u2hyaA"
+    }
+  ]
+}
