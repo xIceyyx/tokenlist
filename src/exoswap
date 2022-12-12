@@ -1,0 +1,21 @@
+{
+  "name": "ExoSwap List",
+  "timestamp": "2022-05-01T00:00:00.000Z",
+  "logoURI": "https://media.discordapp.net/attachments/1051502847302312017/1051937369261088838/exoswap-.png?width=527&height=527",
+
+  "version": {
+    "major": 24,
+    "minor": 7,
+    "patch": 2
+  },
+  "tokens": [
+    {
+      "name": "WSAMA",
+      "symbol": "WSAMA",
+      "chainId": 2109,
+      "decimals": 18,
+      "address": "0x8C992cba48189a79204223d106fCB1D797A5F87a",
+      "logoURI": "https://assets.coingecko.com/coins/images/28308/small/Small.png?1669340181"
+    }
+  ]
+}
